@@ -1,4 +1,4 @@
-package fr.a3ci.www.android_tcp_demo;
+package fr.reuniware.www.android_tcp_demo;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
